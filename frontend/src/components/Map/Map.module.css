@@ -1,0 +1,7 @@
+.mapContainer{
+    background-color: #e0e7ff;
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
