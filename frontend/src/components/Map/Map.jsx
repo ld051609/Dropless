@@ -35,17 +35,19 @@ const Map = () => {
                                 key={geo.rsmKey} 
                                 geography={geo} 
                                 onClick={() => alert(`Clicked on ${geo.properties.name}`)}
+                                onMouseEnter={() => console.log(`Clicked on ${geo.properties.name}`)}
+
                                 style={{
                                     default: {
                                         fill: "#003f5c",
                                         stroke: "url(#gradientStroke)", // Apply the gradient stroke
-                                        strokeWidth: 0.75, // Adjust as needed
+                                        strokeWidth: 1, // Adjust as needed
                                         outline: "none",
                                         filter: "url(#glow)", // Apply the glow filter
                                         transition: 'ease 0.05s'
                                     },
                                     hover: {
-                                        fill: "#c4c9f4",
+                                        fill: "#e9ebfb",
                                         stroke: "url(#gradientStroke)", // Apply the gradient stroke
                                         strokeWidth: 0.75, // Adjust as needed
                                         outline: "none",
@@ -56,7 +58,7 @@ const Map = () => {
 
                                     },
                                     pressed: {
-                                        fill: "#2a0d66",
+                                        fill: "#00111a",
                                         stroke: "url(#gradientStroke)", // Apply the gradient stroke
                                         strokeWidth: 0.75, // Adjust as needed
                                         outline: "none",
