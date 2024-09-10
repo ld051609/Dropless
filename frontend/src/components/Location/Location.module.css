@@ -20,11 +20,13 @@
     border: 2px solid #9966ff;
     border-radius: 30px;
     font-size: 16px;
+    box-shadow: 0 0 10px #9966ff;
+
 }
 .inputField:focus {
     outline: none;
-    /* Illuminated */
-    box-shadow: 0 0 10px #9966ff;
+    border-color: #5c00e6;
+    box-shadow: 0 0 10px #5c00e6;
 }
 .inputField::placeholder {
     color: #7458bb;
