@@ -1,12 +1,27 @@
-import React from 'react';
+import React, {useState} from 'react';
 import styles from './Map.module.css';
-import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
-import "../../../src/index.css";
+import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
+import { geoCentroid } from 'd3-geo';
 
 const Map = () => {
     // Correct URL for TopoJSON data
     const geoUrl = "features.json";
-    
+    const [zoom, setZoom] = useState(1);
+    const [center, setCenter] = useState([0, 0]);
+    const [selectedCountry, setSelectedCountry] = useState(null);
+
+    const handleCountryClick = (geo) => {
+        const centroid = geoCentroid(geo);
+        setCenter(centroid);
+        setZoom(4);
+        setSelectedCountry(geo.properties);
+    }
+    const handleReset = () => {
+        setCenter([0, 0]);
+        setZoom(1);
+        setSelectedCountry(null);
+    }
+
     return (
         <div className={styles.mapContainer}>
             <svg width="0" height="0">
@@ -28,15 +43,16 @@ const Map = () => {
             </svg>
 
             <ComposableMap>
-                <Geographies geography={geoUrl}>
-                    {({ geographies }) =>
-                        geographies.map((geo) => (
-                            <Geography 
+                <ZoomableGroup zoom={zoom} center={center}>
+                
+                    <Geographies geography={geoUrl}>
+                        {({ geographies }) =>
+                            geographies.map((geo) => (
+                                <Geography 
                                 key={geo.rsmKey} 
                                 geography={geo} 
-                                onClick={() => alert(`Clicked on ${geo.properties.name}`)}
-                                onMouseEnter={() => console.log(`Clicked on ${geo.properties.name}`)}
-
+                                onClick={() => handleCountryClick(geo)}
+                                
                                 style={{
                                     default: {
                                         fill: "#003f5c",
@@ -54,24 +70,37 @@ const Map = () => {
                                         filter: "url(#glow)",
                                         cursor: "pointer",
                                         transition: 'ease 0.1s'
-
-
+                                        
+                                        
                                     },
                                     pressed: {
                                         fill: "#00111a",
                                         stroke: "url(#gradientStroke)", // Apply the gradient stroke
                                         strokeWidth: 0.75, // Adjust as needed
                                         outline: "none",
-
+                                        
                                     }
                                 }}
-                            />
-                        ))
-                    }
-                </Geographies>
+                                />
+                            ))
+                        }
+                    </Geographies>
+                </ZoomableGroup>
             </ComposableMap>
+            {selectedCountry && (
+        <div className={styles.popup}>
+          <h2>{selectedCountry.name}</h2>
+          <p>This is a custom description for {selectedCountry.name}.</p>
+          <button onClick={handleReset}>Reset Zoom</button>
+        </div>
+      )}
         </div>
     );
 };
 
 export default Map;
+
+
+
+
+
