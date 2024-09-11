@@ -48,7 +48,7 @@ const Location = () => {
   }
 
   return (
-    <div className={styles.container}>
+    <div className={styles.co}>
       <div className={styles.inputWrapper}>
         <input
           type="text"

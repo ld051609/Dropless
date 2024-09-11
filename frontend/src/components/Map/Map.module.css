@@ -9,6 +9,14 @@
     align-items: center;
     position: relative; /* Ensure popup is positioned correctly */
 }
+.tooltip {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
 
 .popup {
     position: absolute;

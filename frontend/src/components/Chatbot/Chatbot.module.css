@@ -38,6 +38,8 @@
   color: #ffffff; /* White text */
   align-self: flex-end;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  white-space: pre-line; /* This preserves newline characters */
+
 }
 
 /* Bot Message Bubble */
@@ -47,6 +49,8 @@
   border: 1px solid #e0e0e0; /* Light gray border */
   align-self: flex-start;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  white-space: pre-line; /* This preserves newline characters */
+
 }
 
 /* Chatbot Input */
@@ -104,4 +108,40 @@
 
 .chatIcon {
   /* Add styles for chat icon if needed */
+}
+/* Water Source Result */
+.waterSource {
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  background: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  margin: 5px;
+
+}
+
+/* Water Source Name */
+.waterSource strong {
+  display: block;
+  font-size: 18px;
+  color: #5c00e6; /* Purple color for the name */
+  margin-bottom: 5px;
+}
+
+/* Water Source Address and Distance */
+.waterSource div {
+  margin-bottom: 5px;
+  color: #333333; /* Dark gray text */
+}
+
+/* Water Source URL */
+.waterSource a {
+  color: #1a73e8; /* Blue link color */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.waterSource a:hover {
+  text-decoration: underline;
 }

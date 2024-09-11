@@ -15,11 +15,13 @@ const App = () => {
       
       {/* Main content area on the right side */}
       <div className={styles.mainContent}>
-        <div className={styles.container1}> 
-          <div className={styles.feature1}>
+        <div className={styles.feature0}>
+    
             <Location/>
+        </div>
+
+        <div className={styles.container1}> 
             <Map/>
-          </div>
         </div>
 
         <div className={styles.container2}>
@@ -35,7 +37,7 @@ const App = () => {
           </div>
         </div>
       </div>
-      
+
     </div>
   );
 };

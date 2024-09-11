@@ -3,22 +3,23 @@
     display: flex;
     flex-direction: row;
     width: 100%;
-    height: 100vh; /* Full height of the viewport */
+    height: 100vh; 
 }
 
 /* Navbar on the left side */
 .navbar {
-    width: 250px; /* Adjust width as needed */
-    background-color: #083c53d1; /* Background color for the navbar */
-    padding: 20px; /* Padding around the navbar */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for the navbar */
+    width: 250px; 
+    background-color: #f7f9fc; 
+    padding: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center align items vertically */
-    overflow-y: auto; /* Enable vertical scrolling if content overflows */
-    height: 100vh; /* Full height of the viewport */
-    position: sticky; /* Ensure it sticks to the viewport */
-    top: 0; /* Stick to the top */
+    align-items: center; 
+    overflow-y: auto; 
+    height: 100vh; 
+    position: sticky; 
+    top: 0; 
+    
 }
 
 /* Main content area on the right side */
@@ -27,17 +28,21 @@
     margin: 20px; /* Margin around the main content */
     display: flex;
     flex-direction: column;
-    height: calc(100vh - 40px); /* Adjust height to account for margins (20px top and bottom) */
+    height: calc(100vh - 40px);
     overflow-y: auto; /* Enable vertical scrolling if content overflows */
 }
+/* Location feature */
+.feature0{
+    margin-top: 20px;
 
-/* Container1 styles */
+}
+/* Map styles */
 .container1 {
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
-    background-color: #f7f9fc; /* Very light gray for a clean background */
-    padding: 20px; /* Add padding around the content */
-    flex: 1; /* Make it flexible */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #f7f9fc; 
+    flex: 1;
+
 }
 
 /* Container2 styles */
@@ -45,18 +50,19 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 20px; /* Space above the container */
+    margin: 20px; 
     gap: 20px;
-    flex: 1; /* Make it flexible */
+    flex: 1; 
+    
 }
 
-/* Feature2 styles */
+/* Chatbot styles */
 .feature2 {
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
     background-color: #f7f9fc;
     padding: 20px;
-    flex: 1; /* Make it flexible */
+    flex: 1;
 }
 
 /* ChatbotTag styles */
@@ -74,17 +80,17 @@
     border-radius: 30px;
     margin-bottom: 20px;
     outline: none;
-    box-shadow: 0 0 8px rgba(122, 8, 209, 0.8); /* Neon purple glow */
+    box-shadow: 0 0 8px rgba(122, 8, 209, 0.8); 
     transition: box-shadow 0.3s ease-in-out;
 }
 
-/* Feature3 styles */
+/* Dashboard styles */
 .feature3 {
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
     background-color: #f7f9fc;
     padding: 20px;
-    flex: 1; /* Make it flexible */
+    flex: 1; 
 }
 
 /* ChatbotImg styles */

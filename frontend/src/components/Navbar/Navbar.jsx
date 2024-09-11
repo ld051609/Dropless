@@ -4,8 +4,8 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <div className={styles.navbarContainer}>
+        <a href="/dashboard" className={styles.navbarItem}>Dashboard</a>
         <a href="/form" className={styles.navbarItem}>Form</a>
-        <a href="/dashboard" className={styles.navbar}>Dashboard</a>
       </div>
     </nav>
   );
