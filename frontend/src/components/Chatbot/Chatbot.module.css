@@ -1,0 +1,107 @@
+/* Chatbot Window */
+.chatbotWindow {
+  position: relative; /* For positioning the pseudo-element */
+  width: 450px;
+  height: 400px;
+  background: #ffffff; /* White background */
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow for depth */
+}
+
+
+/* Chatbot Messages */
+.chatbotMessages {
+  flex-grow: 1;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 5px;
+}
+
+/* Message Bubble */
+.message {
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 75%;
+  font-size: 18px;
+}
+
+/* User Message Bubble */
+.user {
+  background: linear-gradient(to bottom right, #5c00e6, #9b2dff); /* Gradient for user messages */
+  color: #ffffff; /* White text */
+  align-self: flex-end;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Bot Message Bubble */
+.bot {
+  background: linear-gradient(to bottom right, #ffffff, #f0f0f0); /* Light gradient for bot messages */
+  color: #333333; /* Dark gray text */
+  border: 1px solid #e0e0e0; /* Light gray border */
+  align-self: flex-start;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Chatbot Input */
+.chatbotInput {
+  display: flex;
+  gap: 10px;
+  background: #ffffff; /* White background for input area */
+  border-top: 1px solid #e0e0e0; /* Light border for separation */
+  padding: 10px;
+}
+
+/* Input Field */
+.chatbotInput input {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid #b289ef; /* Darker purple border for input */
+  border-radius: 5px;
+  background-color: #ffffff; /* White background */
+  color: #333333; /* Dark gray text */
+  outline: none;
+  box-shadow: 0 0 8px rgba(138, 43, 226, 0.8); /* Neon purple glow */
+  transition: box-shadow 0.3s ease-in-out;
+  font-size: 16px;
+}
+
+/* Input Field Focus */
+.chatbotInput input:focus {
+  box-shadow: 0 0 12px rgba(138, 43, 226, 1); /* Brighter neon glow on focus */
+}
+
+/* Placeholder Text */
+.chatbotInput input::placeholder {
+  color: #4444ac; /* Grayish purple */
+}
+
+/* Submit Button */
+.chatbotInput button {
+  background-color: #5c00e6; /* Bright purple */
+  color: #ffffff; /* White text */
+  padding: 8px 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 60%;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Submit Button Hover */
+.chatbotInput button:hover {
+  background-color: #4a00c8; /* Darker purple */
+}
+
+.chatIcon {
+  /* Add styles for chat icon if needed */
+}
