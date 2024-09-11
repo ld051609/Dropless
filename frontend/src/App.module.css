@@ -1,29 +1,66 @@
+/* Main container to align child elements horizontally */
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh; /* Full height of the viewport */
+}
+
+/* Navbar on the left side */
+.navbar {
+    width: 250px; /* Adjust width as needed */
+    background-color: #083c53d1; /* Background color for the navbar */
+    padding: 20px; /* Padding around the navbar */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for the navbar */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align items vertically */
+    overflow-y: auto; /* Enable vertical scrolling if content overflows */
+    height: 100vh; /* Full height of the viewport */
+    position: sticky; /* Ensure it sticks to the viewport */
+    top: 0; /* Stick to the top */
+}
+
+/* Main content area on the right side */
+.mainContent {
+    flex: 1; /* Takes up the remaining space */
+    margin: 20px; /* Margin around the main content */
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 40px); /* Adjust height to account for margins (20px top and bottom) */
+    overflow-y: auto; /* Enable vertical scrolling if content overflows */
+}
+
+/* Container1 styles */
 .container1 {
-    margin: 20px 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
     background-color: #f7f9fc; /* Very light gray for a clean background */
-
+    padding: 20px; /* Add padding around the content */
+    flex: 1; /* Make it flexible */
 }
 
+/* Container2 styles */
 .container2 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 20px 30px;
-    align-items: center;
+    margin-top: 20px; /* Space above the container */
     gap: 20px;
+    flex: 1; /* Make it flexible */
 }
 
+/* Feature2 styles */
 .feature2 {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
     background-color: #f7f9fc;
     padding: 20px;
+    flex: 1; /* Make it flexible */
 }
 
+/* ChatbotTag styles */
 .chatbotTag {
-    position: relative;
     background: linear-gradient(45deg, rgb(98, 44, 233), rgb(186, 103, 235) 70.71%);
     color: white;
     padding: 10px;
@@ -41,21 +78,22 @@
     transition: box-shadow 0.3s ease-in-out;
 }
 
-
-
+/* Feature3 styles */
 .feature3 {
-    background-color: #5c00e6;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a lighter feel */
+    background-color: #f7f9fc;
+    padding: 20px;
+    flex: 1; /* Make it flexible */
 }
 
+/* ChatbotImg styles */
 .chatbotImg {
     width: 20%;
     height: 20%;
 }
 
+/* ChatbotText styles */
 .chatbotText {
     width: 80%;
     display: flex;

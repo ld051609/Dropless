@@ -1,0 +1,28 @@
+/* Basic styling for the navbar */
+.navbar {
+    background-color: #083c53d1; /* Background color of the navbar */
+    padding: 10px 20px; /* Padding around the navbar */
+    border-bottom: 2px solid #5c00e6; /* Bottom border with gradient effect */
+}
+  
+  .navbarContaienr {
+    display: flex;
+    justify-content: space-between; /* Space between the items */
+    align-items: center;
+    max-width: 1200px; /* Maximum width of the navbar */
+    margin: 0 auto; /* Center the navbar */
+  }
+  
+  .navbarItem {
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px 20px; /* Padding around the links */
+    font-size: 16px; /* Font size */
+    border-radius: 5px; /* Rounded corners for the links */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .navbarItem:hover {
+    background-color: #5c00e6; /* Background color on hover */
+  }
+  
