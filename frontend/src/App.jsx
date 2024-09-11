@@ -4,6 +4,7 @@ import Location from './components/Location/Location';
 import Chatbot from './components/Chatbot/Chatbot';
 import styles from './App.module.css';
 import Navbar from './components/Navbar/Navbar';
+import Dashboard from './components/Dashboard/Dashboard';
 
 const App = () => {
   return (
@@ -33,7 +34,7 @@ const App = () => {
             <Chatbot/>
           </div>
           <div className={styles.feature3}> 
-              h
+              <Dashboard/>
           </div>
         </div>
       </div>
