@@ -14,6 +14,7 @@ const getWaterStatus = (renewableWater) => {
     return { status: 'Water Abundant', color: '#00FF00' }; // Green
   }
 };
+const GEOLOCATION_API_KEY = import.meta.env.VITE_GEOLOCATION_API_KEY;
 
 const Dashboard = () => {
   const { country } = useCountry(); // Use the context to get the country
@@ -22,10 +23,21 @@ const Dashboard = () => {
   const [renewableWater, setRenewableWater] = React.useState(null);
   const [weatherDes, setWeatherDes] = React.useState(null);
 
+  const getCoorOfCountry = async (country) => {
+    const response = await fetch(
+      `https://maps.googleapis.com/maps/api/geocode/json?address=${country}&key=${GEOLOCATION_API_KEY}`
+    );
+    const data = await response.json();
+    
+    if (data.results && data.results.length > 0) {
+      const { lat, lng } = data.results[0].geometry.location;
+      return { latitude: lat, longitude: lng };
+    }
+    return null; 
+  }
   const handleOnClick = async () => {
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(async (position) => {
-        const { latitude, longitude } = position.coords;
+       // Get the latitude and longitude of the from getCoorOfCountry
+        const { latitude, longitude } = await getCoorOfCountry(country);
         console.log(latitude, longitude);
 
         // Send the user's location to the server
@@ -50,10 +62,7 @@ const Dashboard = () => {
         setWeatherDes(data.description);
       
         console.log(data);
-      });
-    } else {
-      console.error("Geolocation is not supported by this browser!");
-    }
+     
   };
   useEffect(() => {
     handleOnClick();
@@ -69,7 +78,6 @@ const Dashboard = () => {
         <div className={styles.weatherBlock}>
           <h2 className={styles.infoTitle}>Weather</h2>
           <p className={styles.infoText}>{weatherDes || 'No data'}</p>
-          <p className={styles.infoText}><strong>{weather || ''}</strong></p>
         </div>
         <div className={styles.temperatureBlock}>
           <h2 className={styles.infoTitle}>Temperature</h2>

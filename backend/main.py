@@ -32,7 +32,7 @@ def notify():
     print (temperature, weather_condition, description, predicted_water_resource)
 
     notifications = []
-    if predicted_water_resource < 3000 and ((temperature > 37 or weather_condition) == 'Drought'):
+    if predicted_water_resource < 3000:
         notifications.append("Alert: Critical water and weather conditions detected!")
         if temperature > 40:
             notifications.append(f"High temperature detected: {temperature}°C.")
