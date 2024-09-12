@@ -46,6 +46,7 @@ def notify():
                 'temperature': temperature,
                 'weather_condition': weather_condition,
                 'predicted_water_resource': predicted_water_resource,
+                'description': description,
                 'message': 'Notification sent'
 
             }), 200
@@ -53,6 +54,7 @@ def notify():
         return jsonify({
             'temperature': temperature,
             'weather_condition': weather_condition,
+            'description': description,
             'predicted_water_resource': predicted_water_resource
         }), 200
 

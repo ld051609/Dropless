@@ -1,0 +1,83 @@
+.dashboardContainer {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.button {
+  background: linear-gradient(to bottom right, #5c00e6, #9b2dff);
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: linear-gradient(to bottom right, #4a00c8, #7a1cbb);
+}
+
+.infoContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+  gap: 20px;
+}
+
+.weatherBlock, .temperatureBlock {
+  flex: 1;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.infoTitle {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.infoText {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.temperatureContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.slider {
+  flex: 1;
+  cursor: pointer;
+}
+
+.temperatureValue {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.waterResourceBlock {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .infoContainer {
+    flex-direction: column;
+  }
+}

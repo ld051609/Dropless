@@ -7,14 +7,16 @@ const Location = () => {
   const GEOLOCATION_API_KEY = import.meta.env.VITE_GEOLOCATION_API_KEY;
   const [geolocation, setGeolocation] = React.useState({ latitude: null, longitude: null });
   const { country, updateCountry } = useCountry(); // Use the context
-
+  const [loading, setLoading] = React.useState(false);
   const trackLocation = () => {
+    setLoading(true);
     // Implement your location tracking logic here
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition((position) => {
         const { latitude, longitude } = position.coords;
         setGeolocation({ latitude, longitude });
         fetchCountry(latitude, longitude);
+        setLoading(false);
       });
     } else {
       alert("Geolocation is not supported by this browser.");

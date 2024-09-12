@@ -145,3 +145,31 @@
 .waterSource a:hover {
   text-decoration: underline;
 }
+/* ChatbotText styles */
+.chatbotText {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+/* ChatbotTag styles */
+.chatbotTag {
+  background: linear-gradient(45deg, rgb(98, 44, 233), rgb(186, 103, 235) 70.71%);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  outline: none;
+  box-shadow: 0 0 8px rgba(122, 8, 209, 0.8); 
+  transition: box-shadow 0.3s ease-in-out;
+}

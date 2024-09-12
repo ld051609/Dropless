@@ -98,6 +98,10 @@ const Chatbot = () => {
   };
 
   return (
+    <div>
+    <div className={styles.chatbotTag}>
+    <p className={styles.chatbotText}>Emergency Chatbot</p>
+    </div>
     <div className={styles.chatbotWindow}>
       <div className={styles.chatbotHeader}>
         {/* Add header content here if needed */}
@@ -128,6 +132,7 @@ const Chatbot = () => {
           <FaWater className={styles.waterIcon} size={24} />
         </button>
       </div>
+    </div>
     </div>
   );
 };
