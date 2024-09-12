@@ -3,7 +3,7 @@ import styles from './Map.module.css';
 import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
 import { geoCentroid } from 'd3-geo';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
-import Location from '../Location/Location';
+import MockData from './data.json'; // Import JSON data
 
 const Map = () => {
     const geoUrl = "features.json";
@@ -27,27 +27,8 @@ const Map = () => {
         setHoveredCountry(null); // Clear hover state on reset
     };
 
-    const mockData = {
-        'Canada': [
-            { year: '2021', water_resources: 3200 },
-            { year: '2022', water_resources: 3100 },
-            { year: '2023', water_resources: 3000 },
-            { year: '2024', water_resources: 2900 },
-            { year: '2025', water_resources: 2800 },
-        ],
-        'USA': [
-            { year: '2021', water_resources: 2500 },
-            { year: '2022', water_resources: 2400 },
-            { year: '2023', water_resources: 2300 },
-            { year: '2024', water_resources: 2200 },
-            { year: '2025', water_resources: 2100 },
-        ],
-    };
-
     return (
         <div>
-    
-
             <div className={styles.mapContainer}>
                 <svg width="0" height="0">
                     <defs>
@@ -108,16 +89,16 @@ const Map = () => {
                     </ZoomableGroup>
                 </ComposableMap>
 
-                {selectedCountry && (
+                {selectedCountry && MockData[selectedCountry.name] && (
                     <div className={styles.popup}>
                         <h2>{selectedCountry.name}</h2>
-                        <LineChart width={500} height={300} data={mockData[selectedCountry.name]}>
+                        <LineChart width={500} height={300} data={MockData[selectedCountry.name]}>
                             <CartesianGrid strokeDasharray="3 3" />
-                            <XAxis dataKey="year" />
+                            <XAxis dataKey="Year" />
                             <YAxis />
                             <Tooltip />
                             <Legend />
-                            <Line type="monotone" dataKey="water_resources" stroke="#8884d8" />
+                            <Line type="monotone" dataKey="Water_resources" stroke="#8884d8" />
                         </LineChart>
                         <button onClick={handleReset} className={styles.resetButton}>Reset Zoom</button>
                     </div>

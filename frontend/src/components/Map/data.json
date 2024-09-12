@@ -1,0 +1,2792 @@
+{
+    "Afghanistan": [
+        {
+            "Year": "2022",
+            "Water_resources": 1578.1722820485775
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1527.145673018576
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1476.119088346984
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1425.0925280337897
+        }
+    ],
+    "Albania": [
+        {
+            "Year": "2022",
+            "Water_resources": 10628.645041391776
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 10674.162565854902
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 10715.902484927388
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 10754.178310880734
+        }
+    ],
+    "Algeria": [
+        {
+            "Year": "2022",
+            "Water_resources": 259.7476893720499
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 255.41199645445093
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 251.0838174068624
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 246.7631392075497
+        }
+    ],
+    "Angola": [
+        {
+            "Year": "2022",
+            "Water_resources": 4165.600310007313
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4030.6024423174586
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3895.984112558259
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3761.744253682928
+        }
+    ],
+    "Antigua and Barbuda": [
+        {
+            "Year": "2022",
+            "Water_resources": 554.5697816774158
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 551.3312759688995
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 548.1105786366315
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 544.9075917532673
+        }
+    ],
+    "Argentina": [
+        {
+            "Year": "2022",
+            "Water_resources": 19261.77303628085
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 19173.13999874151
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 19086.99536162382
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 19003.269262302845
+        }
+    ],
+    "Armenia": [
+        {
+            "Year": "2022",
+            "Water_resources": 2798.5006560241786
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2813.3146174677254
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2828.058261978517
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2842.731923327573
+        }
+    ],
+    "Australia": [
+        {
+            "Year": "2022",
+            "Water_resources": 18812.0903407544
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 18655.871347147735
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 18511.118751731356
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 18376.990926452083
+        }
+    ],
+    "Austria": [
+        {
+            "Year": "2022",
+            "Water_resources": 8700.590646916376
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 8693.030913059678
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 8686.009215535898
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 8679.487261582219
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "Year": "2022",
+            "Water_resources": 3353.5453898213755
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3345.28090569321
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3337.4467424906265
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3330.0204939634436
+        }
+    ],
+    "Bahrain": [
+        {
+            "Year": "2022",
+            "Water_resources": 79.44709153964807
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 79.58361167971228
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 79.69177006998136
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 79.77745879971822
+        }
+    ],
+    "Bangladesh": [
+        {
+            "Year": "2022",
+            "Water_resources": 7162.721482296473
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 7080.425209836635
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6998.38179280838
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6916.590454312981
+        }
+    ],
+    "Barbados": [
+        {
+            "Year": "2022",
+            "Water_resources": 283.9981819012617
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 283.50179906160974
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 283.00587239843173
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 282.5104014925009
+        }
+    ],
+    "Belarus": [
+        {
+            "Year": "2022",
+            "Water_resources": 6079.933350831902
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6111.98462425348
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6141.389882891884
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6168.36757030599
+        }
+    ],
+    "Belgium": [
+        {
+            "Year": "2022",
+            "Water_resources": 1569.2462149465457
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1562.499423525211
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1555.7941325905642
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1549.130086867129
+        }
+    ],
+    "Belize": [
+        {
+            "Year": "2022",
+            "Water_resources": 54091.38456973063
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 53902.484355775785
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 53753.4343295751
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 53635.82773800324
+        }
+    ],
+    "Benin": [
+        {
+            "Year": "2022",
+            "Water_resources": 1975.11389175364
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1919.8015025444367
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1864.5477436851038
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1809.3525530282998
+        }
+    ],
+    "Bhutan": [
+        {
+            "Year": "2022",
+            "Water_resources": 100053.82393889285
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 99832.48451069646
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 99650.71668754869
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 99501.44576098533
+        }
+    ],
+    "Bosnia and Herzegovina": [
+        {
+            "Year": "2022",
+            "Water_resources": 11637.410945997255
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 11808.686746632644
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 11978.425088630323
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 12146.639773000441
+        }
+    ],
+    "Botswana": [
+        {
+            "Year": "2022",
+            "Water_resources": 4658.215057718762
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4588.07750298933
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4518.333087138433
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4448.979606522411
+        }
+    ],
+    "Brazil": [
+        {
+            "Year": "2022",
+            "Water_resources": 40166.89760353465
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 40005.314429636324
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 39858.75106264799
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 39725.811351013945
+        }
+    ],
+    "Brunei Darussalam": [
+        {
+            "Year": "2022",
+            "Water_resources": 18931.18068371104
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 18778.996684350575
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 18628.554240940713
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 18479.83342354702
+        }
+    ],
+    "Bulgaria": [
+        {
+            "Year": "2022",
+            "Water_resources": 3139.4529627919396
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3184.967450938361
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3229.844462066181
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3274.0929246938967
+        }
+    ],
+    "Burkina Faso": [
+        {
+            "Year": "2022",
+            "Water_resources": 594.8863094324389
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 578.9552562988516
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 563.0476565048516
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 547.1634755229576
+        }
+    ],
+    "Burundi": [
+        {
+            "Year": "2022",
+            "Water_resources": 971.3563178341157
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 944.9583721441395
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 919.555138962519
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 895.1091360932568
+        }
+    ],
+    "Cabo Verde": [
+        {
+            "Year": "2022",
+            "Water_resources": 505.84607523852355
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 501.44172104404583
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 497.0560250246312
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 492.6889081386128
+        }
+    ],
+    "Cambodia": [
+        {
+            "Year": "2022",
+            "Water_resources": 28375.921325224692
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 28061.011546557
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 27754.72867553003
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 27456.836379262164
+        }
+    ],
+    "Cameroon": [
+        {
+            "Year": "2022",
+            "Water_resources": 10140.03345519869
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 9872.210304699911
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 9606.957232626566
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 9344.249576050524
+        }
+    ],
+    "Canada": [
+        {
+            "Year": "2022",
+            "Water_resources": 75756.80981578086
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 75508.38732544135
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 75303.59643038924
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 75134.77391098319
+        }
+    ],
+    "Central African Republic": [
+        {
+            "Year": "2022",
+            "Water_resources": 25484.160308028026
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 25222.52910821435
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 25028.882362778444
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 24885.554418540054
+        }
+    ],
+    "Chad": [
+        {
+            "Year": "2022",
+            "Water_resources": 2574.282967174406
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2488.5912567211462
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2403.0347613826775
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2317.613267799654
+        }
+    ],
+    "Chile": [
+        {
+            "Year": "2022",
+            "Water_resources": 47367.53409820655
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 47352.985627222406
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 47367.510447369925
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 47353.009239610874
+        }
+    ],
+    "China": [
+        {
+            "Year": "2022",
+            "Water_resources": 1948.184342076727
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1948.2524777069063
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1948.316763969991
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1948.377418338498
+        }
+    ],
+    "Colombia": [
+        {
+            "Year": "2022",
+            "Water_resources": 45643.38753917704
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 45506.823095525644
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 45395.2294715072
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 45304.040750720116
+        }
+    ],
+    "Comoros": [
+        {
+            "Year": "2022",
+            "Water_resources": 1432.9678200852522
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1405.472451474591
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1378.034086104707
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1350.6526057968078
+        }
+    ],
+    "Costa Rica": [
+        {
+            "Year": "2022",
+            "Water_resources": 21815.190771001064
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 21710.09084659263
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 21609.40802714018
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 21512.956672013603
+        }
+    ],
+    "Croatia": [
+        {
+            "Year": "2022",
+            "Water_resources": 26222.658933796352
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 26455.006912746467
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 26681.55032620864
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 26902.43418504397
+        }
+    ],
+    "Cuba": [
+        {
+            "Year": "2022",
+            "Water_resources": 3400.01159775038
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3411.209990163214
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3420.50931326123
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3428.231619007739
+        }
+    ],
+    "Cyprus": [
+        {
+            "Year": "2022",
+            "Water_resources": 624.027022522995
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 621.1756022021376
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 618.3601822421101
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 615.5803081234682
+        }
+    ],
+    "Czechia": [
+        {
+            "Year": "2022",
+            "Water_resources": 1253.940480928146
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1256.1659817792831
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1257.9096155488414
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1259.2757164518316
+        }
+    ],
+    "Denmark": [
+        {
+            "Year": "2022",
+            "Water_resources": 1020.0526597168704
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1015.2187730087386
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1010.3965053261132
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1005.5858287407945
+        }
+    ],
+    "Djibouti": [
+        {
+            "Year": "2022",
+            "Water_resources": 267.65686503021146
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 263.96352607353896
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 260.2764020382709
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 256.59548246632346
+        }
+    ],
+    "Dominica": [
+        {
+            "Year": "2022",
+            "Water_resources": 2749.3061061465137
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2738.6950326075184
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2729.806230234531
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2722.3601591715355
+        }
+    ],
+    "Dominican Republic": [
+        {
+            "Year": "2022",
+            "Water_resources": 2091.5573112282036
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2069.421535728132
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2047.3063116815272
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2025.2116200078635
+        }
+    ],
+    "Ecuador": [
+        {
+            "Year": "2022",
+            "Water_resources": 24867.51799145716
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 24857.159320750692
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 24867.45188190293
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 24857.225008390447
+        }
+    ],
+    "El Salvador": [
+        {
+            "Year": "2022",
+            "Water_resources": 4147.231712739126
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4135.705845405479
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4125.682596278155
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4116.966070210299
+        }
+    ],
+    "Equatorial Guinea": [
+        {
+            "Year": "2022",
+            "Water_resources": 15552.584960415896
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 15238.340598503975
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 14959.977799909539
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 14713.399477326791
+        }
+    ],
+    "Eritrea": [
+        {
+            "Year": "2022",
+            "Water_resources": 1983.6675067952413
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1947.7991186101988
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1912.9113576220936
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1878.977413880771
+        }
+    ],
+    "Estonia": [
+        {
+            "Year": "2022",
+            "Water_resources": 9650.105281030981
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 9656.770587423525
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 9660.435969518012
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 9662.451634681374
+        }
+    ],
+    "Eswatini": [
+        {
+            "Year": "2022",
+            "Water_resources": 3745.575923000212
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3708.5984991922305
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3671.764226850058
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3635.072551788463
+        }
+    ],
+    "Ethiopia": [
+        {
+            "Year": "2022",
+            "Water_resources": 988.216712902723
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 962.1810083401132
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 936.1673173466253
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 910.1756213094644
+        }
+    ],
+    "Fiji": [
+        {
+            "Year": "2022",
+            "Water_resources": 30849.748347755838
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 30859.99922968191
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 30856.26439911496
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 30857.625156117567
+        }
+    ],
+    "Finland": [
+        {
+            "Year": "2022",
+            "Water_resources": 19853.77024140112
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 19839.114301518894
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 19825.855801247282
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 19813.861495125333
+        }
+    ],
+    "France": [
+        {
+            "Year": "2022",
+            "Water_resources": 3267.146450562414
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3264.655168698359
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3262.2471049655082
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3259.9194795670587
+        }
+    ],
+    "Gabon": [
+        {
+            "Year": "2022",
+            "Water_resources": 70852.45328511008
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 70904.43362376132
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 70852.46566615805
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 70904.42124566235
+        }
+    ],
+    "Georgia": [
+        {
+            "Year": "2022",
+            "Water_resources": 16889.657290229403
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 16922.804579353695
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 16952.08982900475
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 16977.96301108938
+        }
+    ],
+    "Germany": [
+        {
+            "Year": "2022",
+            "Water_resources": 1845.4034448434088
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1844.5479348243234
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1843.76091960417
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1843.0369152758335
+        }
+    ],
+    "Ghana": [
+        {
+            "Year": "2022",
+            "Water_resources": 1677.9062395463675
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1644.1845440132079
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1610.5256844572978
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1576.9295437919968
+        }
+    ],
+    "Greece": [
+        {
+            "Year": "2022",
+            "Water_resources": 6591.6588797324775
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6634.868434678731
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6677.9878622173555
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6721.017350338011
+        }
+    ],
+    "Grenada": [
+        {
+            "Year": "2022",
+            "Water_resources": 1592.8250633578984
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1580.6594565323064
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1568.5107797161015
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1556.3790093489945
+        }
+    ],
+    "Guatemala": [
+        {
+            "Year": "2022",
+            "Water_resources": 7168.131860451316
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 7072.70547903284
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6977.83007276239
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6883.5024604063365
+        }
+    ],
+    "Guinea": [
+        {
+            "Year": "2022",
+            "Water_resources": 16300.754216670508
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 15903.487356561332
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 15509.441921923662
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 15118.591790311577
+        }
+    ],
+    "Guinea-Bissau": [
+        {
+            "Year": "2022",
+            "Water_resources": 14909.320465398909
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 14584.862992860835
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 14263.973276634826
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 13946.612085431176
+        }
+    ],
+    "Guyana": [
+        {
+            "Year": "2022",
+            "Water_resources": 333536.3916483866
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 330354.88542977214
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 327278.9930621163
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 324305.2085690835
+        }
+    ],
+    "Haiti": [
+        {
+            "Year": "2022",
+            "Water_resources": 1210.2589580292206
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1195.6466597728454
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1181.0519665166603
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1166.4748570500367
+        }
+    ],
+    "Honduras": [
+        {
+            "Year": "2022",
+            "Water_resources": 8833.511153524061
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 8700.60465526001
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 8568.092568231517
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 8435.97372199
+        }
+    ],
+    "Hungary": [
+        {
+            "Year": "2022",
+            "Water_resources": 10757.657769789643
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 10797.866953936305
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 10832.403104343599
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 10862.06661804745
+        }
+    ],
+    "Iceland": [
+        {
+            "Year": "2022",
+            "Water_resources": 451272.3664169988
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 443856.2119550056
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 436779.1298917636
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 430025.61757125566
+        }
+    ],
+    "India": [
+        {
+            "Year": "2022",
+            "Water_resources": 1348.160205287286
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1338.7958814791675
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1329.5003584193907
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1320.27313062106
+        }
+    ],
+    "Indonesia": [
+        {
+            "Year": "2022",
+            "Water_resources": 7328.104997032113
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 7282.438374600767
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 7237.157464671152
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 7192.259009412362
+        }
+    ],
+    "Iraq": [
+        {
+            "Year": "2022",
+            "Water_resources": 2017.3097025558645
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1970.533227688645
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1923.8236054223378
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1877.1807402116872
+        }
+    ],
+    "Ireland": [
+        {
+            "Year": "2022",
+            "Water_resources": 10350.00347256043
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 10274.462613043872
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 10201.39533073088
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 10130.720628605784
+        }
+    ],
+    "Israel": [
+        {
+            "Year": "2022",
+            "Water_resources": 196.8332103012498
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 193.67472206916688
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 190.52319409777
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 187.37861104895265
+        }
+    ],
+    "Italy": [
+        {
+            "Year": "2022",
+            "Water_resources": 3242.8503664683417
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3256.015277982952
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3268.729759679973
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3281.0092227545624
+        }
+    ],
+    "Jamaica": [
+        {
+            "Year": "2022",
+            "Water_resources": 3818.6062428858504
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3810.619441983439
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3803.4463637195017
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3797.0041032438417
+        }
+    ],
+    "Japan": [
+        {
+            "Year": "2022",
+            "Water_resources": 3468.9317903811184
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3486.8990646151137
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3504.602097318589
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3522.0447746450895
+        }
+    ],
+    "Jordan": [
+        {
+            "Year": "2022",
+            "Water_resources": 82.46181419412783
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 80.96643277678334
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 79.55741687916066
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 78.22977847418501
+        }
+    ],
+    "Kazakhstan": [
+        {
+            "Year": "2022",
+            "Water_resources": 5585.618938538232
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 5524.04559225613
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 5462.673237166249
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 5401.501217181797
+        }
+    ],
+    "Kenya": [
+        {
+            "Year": "2022",
+            "Water_resources": 568.3031264762211
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 557.448428899954
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 546.6197778545722
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 535.8171108397836
+        }
+    ],
+    "Kuwait": [
+        {
+            "Year": "2022",
+            "Water_resources": 4.772073840339272
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4.791988927616025
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4.7979693917673165
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4.799765314173674
+        }
+    ],
+    "Latvia": [
+        {
+            "Year": "2022",
+            "Water_resources": 18892.05561675183
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 19130.962967516734
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 19362.380810245933
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 19586.543933573757
+        }
+    ],
+    "Lebanon": [
+        {
+            "Year": "2022",
+            "Water_resources": 813.6300458862123
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 821.4057144289924
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 828.5495446731347
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 835.1128787808507
+        }
+    ],
+    "Lesotho": [
+        {
+            "Year": "2022",
+            "Water_resources": 1308.536323577791
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1292.487067958723
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1276.446106267447
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1260.4134342178304
+        }
+    ],
+    "Liberia": [
+        {
+            "Year": "2022",
+            "Water_resources": 44810.47825282718
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 44908.735027297815
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 44978.42569866377
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 45027.855264224054
+        }
+    ],
+    "Libya": [
+        {
+            "Year": "2022",
+            "Water_resources": 102.72751117520167
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 101.53132301900038
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 100.34179340140582
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 99.15888525790088
+        }
+    ],
+    "Lithuania": [
+        {
+            "Year": "2022",
+            "Water_resources": 8904.735637985585
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 9016.605118490366
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 9127.531909712801
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 9237.52395540197
+        }
+    ],
+    "Luxembourg": [
+        {
+            "Year": "2022",
+            "Water_resources": 5400.019305132467
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 5326.973915970443
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 5255.392073221932
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 5185.244453090742
+        }
+    ],
+    "Madagascar": [
+        {
+            "Year": "2022",
+            "Water_resources": 11377.405436987105
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 11101.399920580789
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 10826.565682125882
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 10552.897751098397
+        }
+    ],
+    "Malawi": [
+        {
+            "Year": "2022",
+            "Water_resources": 846.4391611308378
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 824.107324530193
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 801.7940247086322
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 779.4992462795042
+        }
+    ],
+    "Malaysia": [
+        {
+            "Year": "2022",
+            "Water_resources": 17092.537577873336
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 16912.27362495313
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 16734.51032865398
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 16559.2129993808
+        }
+    ],
+    "Maldives": [
+        {
+            "Year": "2022",
+            "Water_resources": 56.80804967244077
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 56.10210285088013
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 55.41286444058837
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 54.73993898542262
+        }
+    ],
+    "Mali": [
+        {
+            "Year": "2022",
+            "Water_resources": 5305.63130076951
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 5133.29009193355
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4961.181634147
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4789.305613073832
+        }
+    ],
+    "Malta": [
+        {
+            "Year": "2022",
+            "Water_resources": 93.81202231319564
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 91.75636016679584
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 89.70427782891034
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 87.65576906552396
+        }
+    ],
+    "Mauritania": [
+        {
+            "Year": "2022",
+            "Water_resources": 2407.411996710428
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2344.645537624464
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2281.920362788775
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2219.2364450489013
+        }
+    ],
+    "Mauritius": [
+        {
+            "Year": "2022",
+            "Water_resources": 2116.1080709763096
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2114.334361311513
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2112.5994972268863
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2110.902627974909
+        }
+    ],
+    "Mexico": [
+        {
+            "Year": "2022",
+            "Water_resources": 3627.4364773139177
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3609.737870100159
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3592.2779481957623
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3575.053492665124
+        }
+    ],
+    "Mongolia": [
+        {
+            "Year": "2022",
+            "Water_resources": 10239.321439586049
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 10086.594263073926
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 9936.706756008838
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 9789.60612017404
+        }
+    ],
+    "Morocco": [
+        {
+            "Year": "2022",
+            "Water_resources": 774.1576455121747
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 766.1679417953743
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 758.1956801132143
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 750.2408223886165
+        }
+    ],
+    "Mozambique": [
+        {
+            "Year": "2022",
+            "Water_resources": 6579.504842362802
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6391.756980674016
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6204.826930586123
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6018.711129790565
+        }
+    ],
+    "Myanmar": [
+        {
+            "Year": "2022",
+            "Water_resources": 21560.659349150326
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 21415.07101422786
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 21270.322883793582
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 21126.4101089454
+        }
+    ],
+    "Namibia": [
+        {
+            "Year": "2022",
+            "Water_resources": 15519.55358052947
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 15266.833413319506
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 15015.592903403985
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 14765.82338750236
+        }
+    ],
+    "Nepal": [
+        {
+            "Year": "2022",
+            "Water_resources": 6838.5639558386465
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6688.708636191521
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6548.302440448169
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6416.749554307445
+        }
+    ],
+    "New Zealand": [
+        {
+            "Year": "2022",
+            "Water_resources": 63256.69270386114
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 62842.47634215057
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 62491.88621363797
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 62195.148929521776
+        }
+    ],
+    "Nicaragua": [
+        {
+            "Year": "2022",
+            "Water_resources": 23677.32897165049
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 23340.00206615653
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 23003.641552610046
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 22668.244662440316
+        }
+    ],
+    "Niger": [
+        {
+            "Year": "2022",
+            "Water_resources": 1298.3799067089867
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1248.4516614015488
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1198.5846833877988
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1148.778897486219
+        }
+    ],
+    "Nigeria": [
+        {
+            "Year": "2022",
+            "Water_resources": 1309.3558166528876
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1277.6019288887942
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1245.8733946033888
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1214.170193553516
+        }
+    ],
+    "North Macedonia": [
+        {
+            "Year": "2022",
+            "Water_resources": 3055.2394628369702
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3065.5352299211154
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3074.052647867428
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3081.098884236147
+        }
+    ],
+    "Norway": [
+        {
+            "Year": "2022",
+            "Water_resources": 72650.7588460681
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 72584.55084885233
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 72533.77275440982
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 72494.82859383037
+        }
+    ],
+    "Oman": [
+        {
+            "Year": "2022",
+            "Water_resources": 307.7779956978985
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 306.26428821564195
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 305.0735304181658
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 304.1368209489515
+        }
+    ],
+    "Pakistan": [
+        {
+            "Year": "2022",
+            "Water_resources": 1046.8096634218705
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1027.1626370138256
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1007.6002234757105
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 988.1220584094935
+        }
+    ],
+    "Panama": [
+        {
+            "Year": "2022",
+            "Water_resources": 31621.03796181607
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 31248.303452547665
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 30895.2793221795
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 30560.92327645996
+        }
+    ],
+    "Papua New Guinea": [
+        {
+            "Year": "2022",
+            "Water_resources": 80514.68429831539
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 80507.0694670667
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 80514.68271893534
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 80507.07104611919
+        }
+    ],
+    "Paraguay": [
+        {
+            "Year": "2022",
+            "Water_resources": 57629.60916176575
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 57456.10056050058
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 57315.23245541818
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 57200.864505444464
+        }
+    ],
+    "Peru": [
+        {
+            "Year": "2022",
+            "Water_resources": 55757.26322968261
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 55754.833792665384
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 55757.24902171089
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 55754.84791754523
+        }
+    ],
+    "Philippines": [
+        {
+            "Year": "2022",
+            "Water_resources": 4147.504015871117
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4089.018584425981
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4030.712982218696
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3972.586656315755
+        }
+    ],
+    "Poland": [
+        {
+            "Year": "2022",
+            "Water_resources": 1584.7991195319048
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1589.6276426769234
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1593.8796247018101
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1597.6239064618783
+        }
+    ],
+    "Portugal": [
+        {
+            "Year": "2022",
+            "Water_resources": 7533.636514112366
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 7542.144274434421
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 7548.254564790017
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 7552.642987455486
+        }
+    ],
+    "Puerto Rico": [
+        {
+            "Year": "2022",
+            "Water_resources": 2187.1285983486914
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2193.1835261854094
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2198.77425480656
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2203.936371904935
+        }
+    ],
+    "Qatar": [
+        {
+            "Year": "2022",
+            "Water_resources": 21.85869776440292
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 22.068706102404697
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 22.224437123305602
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 22.33991897084364
+        }
+    ],
+    "Romania": [
+        {
+            "Year": "2022",
+            "Water_resources": 11044.571163476334
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 11118.316230708897
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 11190.035074682297
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 11259.78336801099
+        }
+    ],
+    "Russian Federation": [
+        {
+            "Year": "2022",
+            "Water_resources": 31192.182559743855
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 31190.374983051846
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 31191.131575811447
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 31190.814890712325
+        }
+    ],
+    "Rwanda": [
+        {
+            "Year": "2022",
+            "Water_resources": 964.8193004006936
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 941.6818024280375
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 918.5618393230666
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 895.4593977968943
+        }
+    ],
+    "Sao Tome and Principe": [
+        {
+            "Year": "2022",
+            "Water_resources": 9572.927217101927
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 9377.584909157784
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 9185.029131253961
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 8995.2201339386
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "Year": "2022",
+            "Water_resources": 66.80573392550028
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 66.84359871672213
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 66.87405122823536
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 66.89854246211091
+        }
+    ],
+    "Senegal": [
+        {
+            "Year": "2022",
+            "Water_resources": 2248.7899718986914
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2188.5252739435086
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2128.303851420498
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2068.1256732540364
+        }
+    ],
+    "Serbia": [
+        {
+            "Year": "2022",
+            "Water_resources": 22431.786920747723
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 22616.01868241352
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 22783.406886000503
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 22935.49146928156
+        }
+    ],
+    "Sierra Leone": [
+        {
+            "Year": "2022",
+            "Water_resources": 18582.053473333643
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 18167.325411197933
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 17756.70354108934
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 17350.147207902737
+        }
+    ],
+    "Singapore": [
+        {
+            "Year": "2022",
+            "Water_resources": 100.54477608497008
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 100.10705761791507
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 99.67871809212102
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 99.25955654613485
+        }
+    ],
+    "Slovenia": [
+        {
+            "Year": "2022",
+            "Water_resources": 15033.023731212721
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 15029.106362492925
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 15025.435140400234
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 15021.994598389025
+        }
+    ],
+    "Somalia": [
+        {
+            "Year": "2022",
+            "Water_resources": 834.7365001461905
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 808.2419096698776
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 781.8982838477475
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 755.704762491875
+        }
+    ],
+    "South Africa": [
+        {
+            "Year": "2022",
+            "Water_resources": 855.6813698651943
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 846.7725595000262
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 837.8644149167361
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 828.9569360655682
+        }
+    ],
+    "South Sudan": [
+        {
+            "Year": "2022",
+            "Water_resources": 4572.4101386068005
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4561.529568725182
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4557.940057384107
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4556.755873852556
+        }
+    ],
+    "Spain": [
+        {
+            "Year": "2022",
+            "Water_resources": 2343.6540208931833
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2340.529920780178
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2338.291505201445
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2336.687681981358
+        }
+    ],
+    "Sri Lanka": [
+        {
+            "Year": "2022",
+            "Water_resources": 2419.0295483876303
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2413.1196340720653
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2407.242770715638
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2401.3987734821826
+        }
+    ],
+    "Sub-Saharan Africa": [
+        {
+            "Year": "2022",
+            "Water_resources": 3305.691611048711
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3220.656851310119
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3135.7234079837012
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3050.891160353937
+        }
+    ],
+    "Sudan": [
+        {
+            "Year": "2022",
+            "Water_resources": 806.1282134405959
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 784.4365648427893
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 762.8335058313802
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 741.3186746028485
+        }
+    ],
+    "Suriname": [
+        {
+            "Year": "2022",
+            "Water_resources": 161504.10097577766
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 161504.76755381512
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 161504.10107531567
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 161504.76745429198
+        }
+    ],
+    "Sweden": [
+        {
+            "Year": "2022",
+            "Water_resources": 16467.826617802286
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 16312.763103967996
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 16158.327258922447
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 16004.516541976996
+        }
+    ],
+    "Switzerland": [
+        {
+            "Year": "2022",
+            "Water_resources": 6123.793226633057
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6092.719224552185
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6062.270930579788
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6032.435745417072
+        }
+    ],
+    "Syrian Arab Republic": [
+        {
+            "Year": "2022",
+            "Water_resources": 770.2907282561902
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 757.2894432151281
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 747.7038898631085
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 740.6366782163967
+        }
+    ],
+    "Tajikistan": [
+        {
+            "Year": "2022",
+            "Water_resources": 2198.439125563285
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2149.7795997931134
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2101.1860696198823
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2052.658445535551
+        }
+    ],
+    "Thailand": [
+        {
+            "Year": "2022",
+            "Water_resources": 6118.193989792892
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6110.851099572675
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 6103.709289436458
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 6096.763052942096
+        }
+    ],
+    "Timor-Leste": [
+        {
+            "Year": "2022",
+            "Water_resources": 6118.0998446014
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 6017.257658654465
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 5916.520044212887
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 5815.886892837926
+        }
+    ],
+    "Togo": [
+        {
+            "Year": "2022",
+            "Water_resources": 1660.443404111748
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1620.4756546131994
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1580.53522616253
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1540.6221000836908
+        }
+    ],
+    "Trinidad and Tobago": [
+        {
+            "Year": "2022",
+            "Water_resources": 2510.062736038679
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 2504.9719875616684
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 2501.202867692889
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 2498.4122633938587
+        }
+    ],
+    "Tunisia": [
+        {
+            "Year": "2022",
+            "Water_resources": 373.50136452020314
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 370.67781536761436
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 367.8662760586764
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 365.06669551004114
+        }
+    ],
+    "Turkmenistan": [
+        {
+            "Year": "2022",
+            "Water_resources": 3849.244890189154
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 3793.587566185957
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 3738.0366897158374
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 3682.592057192341
+        }
+    ],
+    "Uganda": [
+        {
+            "Year": "2022",
+            "Water_resources": 1268.921993279416
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1227.2565947464243
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1185.6916362925435
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1144.226875793377
+        }
+    ],
+    "Ukraine": [
+        {
+            "Year": "2022",
+            "Water_resources": 4063.4922188020414
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 4099.715451399396
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4135.201755085979
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4169.966122014079
+        }
+    ],
+    "United Arab Emirates": [
+        {
+            "Year": "2022",
+            "Water_resources": 15.885746542547274
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 15.755190311597849
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 15.62516602986614
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 15.495671529933801
+        }
+    ],
+    "Uruguay": [
+        {
+            "Year": "2022",
+            "Water_resources": 50267.35307116053
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 50271.12102805801
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 50272.79719702603
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 50273.54283782974
+        }
+    ],
+    "Uzbekistan": [
+        {
+            "Year": "2022",
+            "Water_resources": 1410.553780440687
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1387.2084925896017
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1363.8820277407553
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1340.5743707174056
+        }
+    ],
+    "Viet Nam": [
+        {
+            "Year": "2022",
+            "Water_resources": 8996.966242665583
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 8923.278889455218
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 8849.809140415524
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 8776.556352945388
+        }
+    ],
+    "Zambia": [
+        {
+            "Year": "2022",
+            "Water_resources": 5231.638163116591
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 5081.8843650175995
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 4932.513788389462
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 4783.525452564593
+        }
+    ],
+    "Zimbabwe": [
+        {
+            "Year": "2022",
+            "Water_resources": 1225.345152785247
+        },
+        {
+            "Year": "2023",
+            "Water_resources": 1200.2091824649503
+        },
+        {
+            "Year": "2024",
+            "Water_resources": 1175.0982065217906
+        },
+        {
+            "Year": "2025",
+            "Water_resources": 1150.0122001021864
+        }
+    ]
+}

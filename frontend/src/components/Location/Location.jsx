@@ -11,6 +11,7 @@ const Location = () => {
   const trackLocation = () => {
     setLoading(true);
     // Implement your location tracking logic here
+  
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition((position) => {
         const { latitude, longitude } = position.coords;
@@ -50,7 +51,7 @@ const Location = () => {
         <input
           type="text"
           className={styles.inputField}
-          placeholder="Enter your location..."
+          placeholder="Track your location..."
         />
         <button onClick={trackLocation} className={styles.iconButton}>
           <FaMapMarkerAlt />

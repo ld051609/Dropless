@@ -1,7 +1,20 @@
 import React, { useEffect } from 'react';
 import styles from './Dashboard.module.css';
 import { useCountry } from '../../CountryContext'; // Import the custom hook
-import Location from '../Location/Location';
+
+
+const getWaterStatus = (renewableWater) => {
+  if (renewableWater < 500) {
+    return { status: 'Absolute Water Scarcity', color: '#FF0000' }; // Red
+  } else if (renewableWater < 1000) {
+    return { status: 'Water Scarcity', color: '#FFA500' }; // Orange
+  } else if (renewableWater < 1700) {
+    return { status: 'Water Stress', color: '#FFFF00' }; // Yellow
+  } else {
+    return { status: 'Water Abundant', color: '#00FF00' }; // Green
+  }
+};
+
 const Dashboard = () => {
   const { country } = useCountry(); // Use the context to get the country
   const [weather, setWeather] = React.useState(null);
@@ -46,6 +59,9 @@ const Dashboard = () => {
     handleOnClick();
   }, [country]);
 
+  const waterStatus = renewableWater ? getWaterStatus(renewableWater) : { status: 'No Data', color: '#CCCCCC' };
+
+
   return (
     <div className={styles.dashboardContainer}>
       
@@ -72,7 +88,19 @@ const Dashboard = () => {
       </div>
       <div className={styles.waterResourceBlock}>
         <h2 className={styles.infoTitle}>Predicted Water Resource</h2>
-        <p className={styles.infoText}>{renewableWater || 'No data'}</p>
+        <div className={styles.waterResourceContainer}>
+          <div
+            className={styles.waterResourceBar}
+            style={{ 
+              background: `linear-gradient(to right, #FF0000 0%, #FFA500 ${renewableWater / 1000}%, #FFFF00 50%, #00FF00 100%)`,
+              width: `${Math.min(renewableWater / 1700 * 100, 100)}%` 
+            }}
+          >
+            <p className={styles.waterStatusText}>
+              {waterStatus.status} - {renewableWater !== null ? `${renewableWater} m³` : 'No data'}
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
